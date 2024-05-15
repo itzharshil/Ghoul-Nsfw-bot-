@@ -1,8 +1,8 @@
 {
-  "prefix": "^",
-  "token": "",
-  "owners": [""],
-  "footer": "Made by naitik.exe_",
+  "prefix": ":",
+  "token": "MTI0MDI3ODQxMDAxNDYyNTg1MA.G2kYtb.wCKnYjevY5kQNJvT3L0M1-1jDCXEuDrj7BfwaY",
+  "owners": ["itzharshil.pro#0"],
+  "footer": "Made by DONN",
 
   "msg": {
     "nsfwWarn": "You must use this command in an nsfw channel!",
