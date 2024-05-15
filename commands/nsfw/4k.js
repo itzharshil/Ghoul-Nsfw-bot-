@@ -31,10 +31,10 @@ exports.run = async (client, message, args) => {
 };
 
 exports.help = {
-  name: commandName,
-  description: `Send a ${commandName} image.`,
-  usage: commandName,
-  example: commandName
+  name: djbjao,
+  description: `Send a ${djbjao} image.`,
+  usage: djbjao,
+  example: djbjao
 };
 
 exports.conf = {
